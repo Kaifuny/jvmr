@@ -1,7 +1,8 @@
 ## jvmr
-
-a toy🤗 jvm in rust
+a toy🤗 jvm in rust, no gc🧐
 [wiki](https://github.com/superbiger/jvmr/wiki)
+
+## Feature
 
 ## Dev environment
 - MacOS High Sierra 10.13.5(17F77)
