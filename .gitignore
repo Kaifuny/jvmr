@@ -13,4 +13,9 @@ Cargo.lock
 **/*.rs.bk
 
 # IntellJ
-.idea/*
+.idea
+
+# gradle
+java/.gradle
+java/.settings
+java/.project
