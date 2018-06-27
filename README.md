@@ -16,6 +16,5 @@ Ensure your Java version is right and JAVA_HOME env was set
 ```
 
 ## 🎉Thanks🎉
-- [jvm-rs](https://github.com/standbyme/jvm-rs)
 - [jvm.go](https://github.com/zxh0/jvm.go.git)
 
