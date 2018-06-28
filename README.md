@@ -12,7 +12,8 @@ a toy🤗 jvm in rust, no gc🧐
 ## Build
 Ensure your Java version is right and JAVA_HOME env was set
 ```shell
-    # TODO
+    # purpose
+    jvmr HelloWorld
 ```
 
 ## 🎉Thanks🎉

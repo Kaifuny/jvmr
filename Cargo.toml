@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["superbiger <superbiger@qq.com>"]
 
 [dependencies]
+byteorder = "1.2.3"
+log = "0.4.2"
