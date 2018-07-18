@@ -1,11 +1,10 @@
 extern crate jvmr;
 
-use std::env;
-use jvmr::cmd::command;
+use jvmr::cli::app::App;
 
 fn main() {
-    
-    println!("JVMR - JVM implementation in Rust");
-
-    command::parse_command(env::args());
+    let _app = App {
+        name: String::from("JVM-R")
+    };
+    println!("{}", _app.name)
 }
